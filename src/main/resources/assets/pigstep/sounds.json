@@ -1,0 +1,11 @@
+{
+  "pigstep": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pigstep:pigstep",
+        "stream": true
+      }
+    ]
+  }
+}
